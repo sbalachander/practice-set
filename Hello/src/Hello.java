@@ -1,5 +1,5 @@
 
-public class Test_Sample{
+public class Hello {
 
 	/**
 	 * @param args
@@ -10,5 +10,3 @@ System.out.println("Hello World");
 	}
 
 }
-
-
